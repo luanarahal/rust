@@ -1,0 +1,1 @@
+C:\Users\theki\OneDrive\Documentos\estudos\rust\proj10-ownershipandborrowing\target\debug\proj10-ownershipandborrowing.exe: C:\Users\theki\OneDrive\Documentos\estudos\rust\proj10-ownershipandborrowing\src\main.rs
